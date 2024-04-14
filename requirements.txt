@@ -19,7 +19,7 @@ flask-openid==1.2.5
 flask-sqlalchemy==2.4.0
 flask-wtf==0.14.2
 flask==1.1.1
-idna==2.9                 # via email-validator
+idna==3.7                 # via email-validator
 itsdangerous==1.1.0       # via flask
 jinja2==2.10.1            # via flask, flask-babel
 jsonschema==3.0.1
